@@ -1,1 +1,1 @@
-alert("Test Script Actualisé")
+setTimeout(()=> alert("Test Script Actualisé"), 5000)
